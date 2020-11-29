@@ -4,7 +4,7 @@ This page contains LAB videos completed in November end, 2020 that are useful fo
 Lab instructions are available on the github page @ https://github.com/MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals/tree/master/Instructions/Walkthroughs
 These lab instructions were last update in November 2020 at the time of completing these labs. I have used a Mac Machine for completing these labs.
 
-Links to the Azure Fundamentals (Az 900) labs on Youtube are provided below:
+Links to the Azure Fundamentals (AZ 900) labs on Youtube are provided below:
 ===============================================
 
 01-Create a virtual machine.md - [https://youtu.be/22FiGtzaj60](https://youtu.be/22FiGtzaj60)
