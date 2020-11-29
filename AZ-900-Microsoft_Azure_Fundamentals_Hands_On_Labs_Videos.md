@@ -2,7 +2,7 @@ AZ-900 Microsoft Azure Fundamentals
 ===========================================
 This page contains LAB videos completed in November end, 2020 that are useful for the preparation of AZ - 900: Azure Fundamentals exam.
 Lab instructions are available on the github page @ https://github.com/MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals/tree/master/Instructions/Walkthroughs
-These lab instructions were last update in November 2020 at the time of completing these labs.
+These lab instructions were last update in November 2020 at the time of completing these labs. I have used a Mac Machine for completing these labs.
 
 01-Create a virtual machine.md - [https://youtu.be/22FiGtzaj60](https://youtu.be/22FiGtzaj60)
 
