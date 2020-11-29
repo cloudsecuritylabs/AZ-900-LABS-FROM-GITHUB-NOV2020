@@ -11,7 +11,7 @@ Links to the labs on Youtube are provided below:
 
 02-Create a Web App.md - https://youtu.be/O-12ioQh0gk
 
-03-Deploy Azure Container Instances.md
+03-Deploy Azure Container Instances.md - https://youtu.be/QjwjJ8iNsYU
 
 04-Create a virtual network.md
 
