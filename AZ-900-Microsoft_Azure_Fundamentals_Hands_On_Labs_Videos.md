@@ -23,7 +23,7 @@ Links to the labs on Youtube are provided below:
 
 08-Implement Azure Functions.md - https://youtu.be/il7b8PttS0M
 
-09-Create a VM with a Template.md
+09-Create a VM with a Template.md - https://youtu.be/rv0emqfGvqM
 
 10-Create a VM with PowerShell.md
 
