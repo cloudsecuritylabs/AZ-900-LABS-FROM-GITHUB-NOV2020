@@ -17,7 +17,7 @@ Links to the labs on Youtube are provided below:
 
 05-Create Blob storage.md - https://youtu.be/ig_rnrgGGdY
 
-06-Create a SQL database.md
+06-Create a SQL database.md - https://youtu.be/ecSzftMig2o
 
 07-Implement the Azure IoT Hub.md
 
