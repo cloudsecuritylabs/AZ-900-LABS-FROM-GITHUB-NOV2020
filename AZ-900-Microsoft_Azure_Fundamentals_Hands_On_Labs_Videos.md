@@ -15,7 +15,7 @@ Links to the labs on Youtube are provided below:
 
 04-Create a virtual network.md - https://youtu.be/K7JyGp3Zc0Q
 
-05-Create Blob storage.md
+05-Create Blob storage.md - https://youtu.be/ig_rnrgGGdY
 
 06-Create a SQL database.md
 
