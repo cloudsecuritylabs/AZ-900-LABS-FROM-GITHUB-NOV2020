@@ -25,7 +25,7 @@ Links to the labs on Youtube are provided below:
 
 09-Create a VM with a Template.md - https://youtu.be/rv0emqfGvqM
 
-10-Create a VM with PowerShell.md
+10-Create a VM with PowerShell.md - https://youtu.be/PNZrKxOvP-I
 
 11-Create a VM with the CLI.md
 
