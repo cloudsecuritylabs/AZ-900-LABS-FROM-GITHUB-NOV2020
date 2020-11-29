@@ -19,7 +19,7 @@ Links to the labs on Youtube are provided below:
 
 06-Create a SQL database.md - https://youtu.be/ecSzftMig2o
 
-07-Implement the Azure IoT Hub.md
+07-Implement the Azure IoT Hub.md - https://youtu.be/rYrk813LRcA
 
 08-Implement Azure Functions.md
 
