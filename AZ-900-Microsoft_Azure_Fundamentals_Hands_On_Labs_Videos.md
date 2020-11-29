@@ -21,7 +21,7 @@ Links to the labs on Youtube are provided below:
 
 07-Implement the Azure IoT Hub.md - https://youtu.be/rYrk813LRcA
 
-08-Implement Azure Functions.md
+08-Implement Azure Functions.md - https://youtu.be/il7b8PttS0M
 
 09-Create a VM with a Template.md
 
