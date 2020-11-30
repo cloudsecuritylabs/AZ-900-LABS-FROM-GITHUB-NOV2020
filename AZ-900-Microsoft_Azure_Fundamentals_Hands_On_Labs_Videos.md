@@ -27,7 +27,7 @@ Links to the Azure Fundamentals (AZ 900) labs on Youtube are provided below:
 
 10-Create a VM with PowerShell.md - https://youtu.be/PNZrKxOvP-I
 
-11-Create a VM with the CLI.md
+11-Create a VM with the CLI.md - https://youtu.be/XlWQbuslNxI
 
 12-Implement Azure Key Vault.md
 
