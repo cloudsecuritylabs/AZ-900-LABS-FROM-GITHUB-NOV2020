@@ -31,7 +31,7 @@ Links to the Azure Fundamentals (AZ 900) labs on Youtube are provided below:
 
 12-Implement Azure Key Vault.md - https://youtu.be/e37eeFSgHVE
 
-13-Secure network traffic.md - https://youtu.be/FCGBU83Xbrs
+13-Secure network traffic.md - https://youtu.be/SNhUYYeWKt4
 
 14-Manage access with RBAC.md
 
