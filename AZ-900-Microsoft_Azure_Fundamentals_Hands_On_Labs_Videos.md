@@ -29,7 +29,7 @@ Links to the Azure Fundamentals (AZ 900) labs on Youtube are provided below:
 
 11-Create a VM with the CLI.md - https://youtu.be/XlWQbuslNxI
 
-12-Implement Azure Key Vault.md
+12-Implement Azure Key Vault.md - https://youtu.be/e37eeFSgHVE
 
 13-Secure network traffic.md
 
