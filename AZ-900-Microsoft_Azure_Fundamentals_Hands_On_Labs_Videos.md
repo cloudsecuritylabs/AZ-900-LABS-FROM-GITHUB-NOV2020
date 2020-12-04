@@ -41,7 +41,7 @@ Links to the Azure Fundamentals (AZ 900) labs on Youtube are provided below:
 
 17-Create an Azure Policy.md - https://youtu.be/I9xHpvawDXY
 
-18-Explore the Trust Center.md
+18-Explore the Trust Center.md - https://youtu.be/Jp08mCj6Lj0
 
 19-Use the Azure Pricing Calculator.md
 
