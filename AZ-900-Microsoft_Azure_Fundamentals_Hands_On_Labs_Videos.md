@@ -37,7 +37,7 @@ Links to the Azure Fundamentals (AZ 900) labs on Youtube are provided below:
 
 15-Manage resource locks.md - https://youtu.be/3j9ZQUTKBjQ
 
-16-Implement resource tagging.md
+16-Implement resource tagging.md - https://youtu.be/eIQRZKOFklU
 
 17-Create an Azure Policy.md
 
