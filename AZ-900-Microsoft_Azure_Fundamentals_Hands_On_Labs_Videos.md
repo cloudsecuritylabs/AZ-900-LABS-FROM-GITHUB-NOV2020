@@ -1,4 +1,4 @@
-AZ-900 Microsoft Azure Fundamentals Labs - Hans On 
+AZ-900 Microsoft Azure Fundamentals Labs - Hands On 
 ===========================================
 This page contains LAB videos completed in November end, 2020 that are useful for the preparation of AZ - 900: Azure Fundamentals exam.
 Lab instructions are available on the github page @ https://github.com/MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals/tree/master/Instructions/Walkthroughs
@@ -35,7 +35,7 @@ Links to the Azure Fundamentals (AZ 900) labs on Youtube are provided below:
 
 14-Manage access with RBAC.md - https://youtu.be/fus1fzIkamI
 
-15-Manage resource locks.md
+15-Manage resource locks.md - https://youtu.be/3j9ZQUTKBjQ
 
 16-Implement resource tagging.md
 
