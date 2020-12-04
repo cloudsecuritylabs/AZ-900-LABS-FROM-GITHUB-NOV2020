@@ -94,10 +94,13 @@ Describe Core Azure Services (15-20%)
 * describe the benefits and usage of Virtual Machines, Azure App Services, Azure Container Instances (ACI), Azure Kubernetes Service (AKS), and Windows Virtual Desktop
 * describe the benefits and usage of Virtual Networks, VPN Gateway, Virtual Network peering, and ExpressRoute
 * describe the benefits and usage of Container (Blob) Storage, Disk Storage, File Storage, and storage tiers
-* describe the benefits and usage of Cosmos DB, Azure SQL Database, Azure Database for
- MySQL, Azure Database for PostgreSQL, and SQL Managed Instance  describe the benefits and usage of Azure Marketplace
+* describe the benefits and usage of Cosmos DB, Azure SQL Database, Azure Database for MySQL, Azure Database for PostgreSQL, and SQL Managed Instance 
+* describe the benefits and usage of Azure Marketplace
+
 Describe core solutions and management tools on Azure (10-15%)
-Describe core solutions available in Azure
+==
+
+## Describe core solutions available in Azure ##
 * describe the benefits and usage of Internet of Things (IoT) Hub, IoT Central, and Azure Sphere
 * describe the benefits and usage of Azure Synapse Analytics, HDInsight, and Azure Databricks
 * describe the benefits and usage of Azure Machine Learning, Cognitive Services and Azure Bot Service
@@ -105,8 +108,7 @@ Describe core solutions available in Azure
 * describe the benefits and usage of Azure DevOps, GitHub, GitHub Actions, and Azure DevTest Labs
 
 ## Describe Azure management tools ##
-* describe the functionality and usage of the Azure Portal, Azure PowerShell, Azure CLI,
- Cloud Shell, and Azure Mobile App
+* describe the functionality and usage of the Azure Portal, Azure PowerShell, Azure CLI, Cloud Shell, and Azure Mobile App
 * describe the functionality and usage of Azure Advisor
 * describe the functionality and usage of Azure Resource Manager (ARM) templates
 * describe the functionality and usage of Azure Monitor
@@ -159,6 +161,7 @@ Describe Azure cost management and Service Level Agreements (10- 15%)
 * identify factors that can reduce costs (reserved instances, reserved capacity, hybrid use benefit, spot pricing)
 * describe the functionality and usage of the Pricing calculator and the Total Cost of Ownership (TCO) calculator
 * describe the functionality and usage of Azure Cost Management
+
 ## Describe Azure Service Level Agreements (SLAs) and service lifecycles ##
 * describe the purpose of an Azure Service Level Agreement (SLA)
 * identify actions that can impact an SLA (i.e. Availability Zones)
