@@ -39,7 +39,7 @@ Links to the Azure Fundamentals (AZ 900) labs on Youtube are provided below:
 
 16-Implement resource tagging.md - https://youtu.be/eIQRZKOFklU
 
-17-Create an Azure Policy.md
+17-Create an Azure Policy.md - https://youtu.be/I9xHpvawDXY
 
 18-Explore the Trust Center.md
 
