@@ -45,7 +45,7 @@ Links to the Azure Fundamentals (AZ 900) labs on Youtube are provided below:
 
 19-Use the Azure Pricing Calculator.md - https://youtu.be/ngo94mm6C9Y
 
-20-Use the Azure TCO Calculator.md
+20-Use the Azure TCO Calculator.md - https://youtu.be/6tKv6ba-WHM
 
 21-Calculate Composite SLAs.md
 
