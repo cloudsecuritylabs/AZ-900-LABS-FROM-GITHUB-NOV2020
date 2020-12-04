@@ -43,7 +43,7 @@ Links to the Azure Fundamentals (AZ 900) labs on Youtube are provided below:
 
 18-Explore the Trust Center.md - https://youtu.be/Jp08mCj6Lj0
 
-19-Use the Azure Pricing Calculator.md
+19-Use the Azure Pricing Calculator.md - https://youtu.be/ngo94mm6C9Y
 
 20-Use the Azure TCO Calculator.md
 
