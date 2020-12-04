@@ -57,15 +57,14 @@ Links to the Azure Fundamentals (AZ 900) labs on Youtube are provided below:
 
 Exam AZ-900: Microsoft Azure Fundamentals – Skills Measured
 ===========================================================
-https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
 Describe Cloud Concepts (20-25%)
 =====
-# Identify the benefits and considerations of using cloud services#
+## Identify the benefits and considerations of using cloud services##
   * identify the benefits of cloud computing, such as High Availability, Scalability, Elasticity,
-* Agility, and Disaster Recovery
+  * Agility, and Disaster Recovery
   * identify the differences between Capital Expenditure (CapEx) and Operational Expenditure (OpEx)
   * describe the consumption-based model
-# Describe the differences between categories of cloud services#
+## Describe the differences between categories of cloud services##
   describe the shared responsibility model
  describe Infrastructure-as-a-Service (IaaS),
   describe Platform-as-a-Service (PaaS)
