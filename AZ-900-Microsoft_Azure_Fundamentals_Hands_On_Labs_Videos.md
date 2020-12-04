@@ -33,7 +33,7 @@ Links to the Azure Fundamentals (AZ 900) labs on Youtube are provided below:
 
 13-Secure network traffic.md - https://youtu.be/SNhUYYeWKt4
 
-14-Manage access with RBAC.md
+14-Manage access with RBAC.md - https://youtu.be/fus1fzIkamI
 
 15-Manage resource locks.md
 
